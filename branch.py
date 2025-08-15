@@ -1,10 +1,10 @@
 # Product catalog stored as dictionary: {product_name: (price, discount_eligible)}
 catalog = {
-    "apple": (2.0, True),
-    "banana": (1.5, False),
+        "indomie": (6.0, True),
+    "milo": (1.5, False),
     "milk": (3.0, True),
-    "bread": (2.5, False),
-    "eggs": (5.0, True)
+    "gari olonka": (2.5, False),
+    "bag of rice": (10.0, True)
 }
 
 # User's cart: {product_name: quantity}
